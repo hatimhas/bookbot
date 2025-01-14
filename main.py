@@ -40,7 +40,3 @@ def create_report(dict,book,num_words):
         
 
 main()
-
-# list = [('a', 1), ('b', 2), ('c', 3)]
-# for char in list:
-#     print(char[0], char[1])
